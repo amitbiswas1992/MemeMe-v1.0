@@ -22,6 +22,7 @@
 		53391844209985F4007B6662 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		53391847209985F4007B6662 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		53391849209985F4007B6662 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53C8A11C209988D700748858 /* README.md .md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "README.md .md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				53391844209985F4007B6662 /* Assets.xcassets */,
 				53391846209985F4007B6662 /* LaunchScreen.storyboard */,
 				53391849209985F4007B6662 /* Info.plist */,
+				53C8A11C209988D700748858 /* README.md .md */,
 			);
 			path = MemeMe;
 			sourceTree = "<group>";
